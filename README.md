@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ## ▶️ How to Run
 
-1.Ensure MongoDB is running and contains:
+1. Ensure MongoDB is running and contains:
 - PVF and IBT collections with audience data.
 - Trained KMeans and LSTM models (and their scalers) stored in GridFS within the model_storage database.
 
