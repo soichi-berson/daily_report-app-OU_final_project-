@@ -58,8 +58,15 @@ python main.py
 - **Anomaly Detection Plot** (LSTM)
 - **Anomalies Table** with audience spikes and dips
 
+## 📊 Daily Report App — Demo Video
 
-<div style="padding:64.95% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1108743344?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Streamlit_movie"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+Watch a short demonstration of the Daily Report App in action, showing:
+- KMeans clustering results and audience segmentation
+- LSTM-based anomaly detection for audience spikes/dips
+- Generated plots and summary tables
+
+🎥 **[Watch the demo on Vimeo](https://vimeo.com/1108743344?share=copy#t=58.467)**
+
 
 ## 📄 License
 This project is for academic use as part of the Open University final project.
