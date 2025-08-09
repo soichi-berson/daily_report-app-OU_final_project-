@@ -40,10 +40,12 @@ pip install -r requirements.txt
 1.Ensure MongoDB is running and contains:
 - PVF and IBT collections with audience data.
 - Trained KMeans and LSTM models (and their scalers) stored in GridFS within the model_storage database.
+
 2. Run:
 ```bash
 python main.py
 ```
+
 3. The script will:
    - Fetch audience data for the given date
    - Perform clustering and anomaly detection
