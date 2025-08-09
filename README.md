@@ -12,7 +12,7 @@ It processes data from MongoDB, applies machine learning models, and generates d
 - **Daily Reporting** in both plot and table formats
 
 ## 📂 Repository Structure
-
+File: daily-report_app
 ```
 main.py                 # Entry point for running the daily report pipeline
 loading.py              # Loads models and scalers from MongoDB GridFS
