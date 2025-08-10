@@ -21,7 +21,6 @@ k_cluster_analysis.py   # KMeans clustering and reporting
 lstm_analysis.py        # LSTM anomaly detection and reporting
 ```
 File: movies_pictures
-Contains PDF screenshots of the Streamlit dashboard at different stages of the analysis:
 ```
 Streamlit1.pdf          # Dashboard of initial analysis
 Streamlit2.pdf          # Dashboard of K-means cluster analysis
