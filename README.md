@@ -20,6 +20,13 @@ k_initial_analysis.py   # Initial KMeans data preparation and cleaning
 k_cluster_analysis.py   # KMeans clustering and reporting
 lstm_analysis.py        # LSTM anomaly detection and reporting
 ```
+File: movies_pictures
+Contains PDF screenshots of the Streamlit dashboard at different stages of the analysis:
+```
+Streamlit1.pdf          # Dashboard of initial analysis
+Streamlit2.pdf          # Dashboard of K-means cluster analysis
+Streamlit3.pdf          # Dashboard of LSTM analysis
+```
 
 ## 🛠 Requirements
 - Python 3.9+
