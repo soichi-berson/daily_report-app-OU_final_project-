@@ -27,6 +27,12 @@ Streamlit2.pdf          # Dashboard of K-means cluster analysis
 Streamlit3.pdf          # Dashboard of LSTM analysis
 ```
 
+File: pre-pilot_study
+```
+pre-pilot_study_k_means.ipynb          # Code for the elbow method and silhouette analysis for K-Means clustering.
+pre-pilot_study_LSTM_analysis.ipynb    # Code for part of the optimal hyperparameter search.
+```
+
 ## 🛠 Requirements
 - Python 3.9+
 - MongoDB
